@@ -1,4 +1,4 @@
-# 🎨 JavaScript Learning Projects
+# 🎨 JavaScript 50+ Learning Projects
 
 Welcome to the **JavaScript Learning Projects** repository! 🚀 Here, you'll find a collection of JavaScript projects ranging from beginner to advanced levels. This repository serves as both a self-journal of my learning journey and a resource for anyone looking to practice and improve their skills.
 
