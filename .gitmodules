@@ -1,3 +1,6 @@
 [submodule "01-Project"]
 	path = 01-Project
 	url = https://github.com/anirudha-8/Drum-Kit.git
+[submodule "02-Project"]
+	path = 02-Project
+	url = https://github.com/anirudha-8/Animated-Clock.git

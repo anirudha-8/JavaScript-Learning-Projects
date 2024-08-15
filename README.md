@@ -47,7 +47,15 @@ This repository contains over **50+** projects that cover various aspects of HTM
 
 A simple interactive drum kit built with vanilla JavaScript, HTML, and CSS. This project allows users to play drum sounds by either clicking on the drum buttons or pressing the corresponding keys on their keyboard.
 
-### --> [View Project](https://anirudha-8.github.io/Drum-Kit/)
+### --> [🔥View Project](https://anirudha-8.github.io/Drum-Kit/)
+
+---
+
+## Project 02 - 🕑 **[Animated Clock](https://github.com/anirudha-8/Animated-Clock.git)**
+
+This is an animated clock project created using JavaScript and CSS. The clock displays the current time with an hour, minute, and second hand, and features a clean, minimalistic design.
+
+### --> [🔥View Project](https://anirudha-8.github.io/Animated-Clock/)
 
 ---
 
