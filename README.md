@@ -59,6 +59,14 @@ This is an animated clock project created using JavaScript and CSS. The clock di
 
 ---
 
+## Project 03 - 🖼️ **[CSS Variables Manipulation](https://github.com/anirudha-8/css-variables-manipulation.git)**
+
+Welcome to the CSS variables manipulation project! 🎨 This project showcases how you can dynamically update CSS variables using JavaScript to control spacing, blur, and base color effects on an image.
+
+### --> [🔥View Project](https://anirudha-8.github.io/css-variables-manipulation/)
+
+---
+
 ## 📄 Contribution
 
 Feel free to contribute by submitting issues, feature requests, or pull requests. Your contributions can help improve this repository and assist other learners!

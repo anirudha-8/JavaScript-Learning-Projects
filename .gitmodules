@@ -4,3 +4,6 @@
 [submodule "02-Project"]
 	path = 02-Project
 	url = https://github.com/anirudha-8/Animated-Clock.git
+[submodule "03-Project"]
+	path = 03-Project
+	url = https://github.com/anirudha-8/css-variables-manipulation.git
