@@ -67,6 +67,14 @@ Welcome to the CSS variables manipulation project! 🎨 This project showcases h
 
 ---
 
+## Project 04 - 🖼️ **[Array Cardio One](https://github.com/anirudha-8/array-cardio-one.git)**
+
+Welcome to **Array Cardio Day 1**! This repository contains a JavaScript workout focusing on manipulating arrays using powerful built-in methods like `filter()`, `map()`, `sort()`, and `reduce()`. Let's get those JavaScript muscles working! 🧠💻
+
+### --> [🔥View Project](https://anirudha-8.github.io/array-cardio-one/)
+
+---
+
 ## 📄 Contribution
 
 Feel free to contribute by submitting issues, feature requests, or pull requests. Your contributions can help improve this repository and assist other learners!
